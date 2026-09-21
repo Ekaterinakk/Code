@@ -6,7 +6,7 @@ info:
     API для каталога цветов, букетов, оформления заказов и управления доставкой.
   version: 1.0.0
   contact:
-    name: Поддержка «ФлораМир»
+    name: Поддержка «Cactus»
     email: support@floramir.example
 
 servers:
